@@ -1,6 +1,6 @@
 // Basic site interactions and WhatsApp flows + Finance tabs
 (function () {
-const WHATSAPP_NUMBER = '6281284415836'; // Change to your number without '+'
+const WHATSAPP_NUMBER = '6287782983494'; // Updated WhatsApp number
 
   function openWhatsApp(message) {
     const url = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
